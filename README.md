@@ -46,7 +46,57 @@ Your browser does not support the video tag.
 </video>
 </td>
 <td>
+
 [▶️ Listen to audio 1](https://raw.githubusercontent.com/vanoe/Text-to-SpeechMultilanguage/master/audio/1.mp3)
+
+</td>
+</tr>
+<tr>
+<td>
+<video src="" controls preload>
+Your browser does not support the video tag.
+</video>
+</td>
+<td>
+
+[▶️ Listen to audio 2](https://raw.githubusercontent.com/vanoe/Text-to-SpeechMultilanguage/master/audio/2.mp3)
+
+</td>
+</tr>
+<tr>
+<td>
+<video src="" controls preload>
+Your browser does not support the video tag.
+</video>
+</td>
+<td>
+
+[▶️ Listen to audio 3](https://raw.githubusercontent.com/vanoe/Text-to-SpeechMultilanguage/master/audio/3.mp3)
+
+</td>
+</tr>
+<tr>
+<td>
+<video src="" controls preload>
+Your browser does not support the video tag.
+</video>
+</td>
+<td>
+
+[▶️ Listen to audio 4](https://raw.githubusercontent.com/vanoe/Text-to-SpeechMultilanguage/master/audio/4.mp3)
+
+</td>
+</tr>
+<tr>
+<td>
+<video src="" controls preload>
+Your browser does not support the video tag.
+</video>
+</td>
+<td>
+
+[▶️ Listen to audio 5](https://raw.githubusercontent.com/vanoe/Text-to-SpeechMultilanguage/master/audio/5.mp3)
+
 </td>
 </tr>
 </tbody>
