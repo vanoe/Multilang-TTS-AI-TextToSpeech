@@ -14,13 +14,42 @@ Multilanguage Text-to-Speech (TTS) technology converts written text into spoken 
 
 ## Scheme
 
+<img src="./img/img-1.png" alt="Scheme">
+
 ---
 
 ## Screenshots of the Interface
 
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img-2.png" alt="image"></td>
+            <td><img src="./img/img-3.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-4.png" alt="image"></td>
+            <td><img src="./img/img-5.png" alt="image"></td>
+        </tr>
+    </tbody>
+</table>
+
 ---
 
 ## Examples and Screen Recordings
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
